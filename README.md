@@ -9,4 +9,4 @@ Major Insights:
 4) South and Central regions deliver the lowest profit of all regions.
 
 ------------------------------------------------------------------------------------------------------------------------------------
-For more insights check out the visualisations folder!
+For detailed insights and recommendations, check out the the "report" document!
