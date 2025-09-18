@@ -1,5 +1,5 @@
 Exploratory Data Analysis (EDA)
-========================= ----------------------------------------------------------------------------------------------------------------------------------
+========================= ---------------------------------------------------------------------------------------------------------------
 Through the creation of visualisations like bar charts  and scatter plots I was able to glimpse into the processes that underline Walmart's business.
 I discovered that:
 1) Most of Walmart's shipements are made via Standard shipping followed by Second class shippping. 
@@ -14,7 +14,7 @@ may be a potential star or cash cow if invested into early enough.
 as Walmart gains a larger and larger percentage of the saturated consumer market share.
 
 Data Mining 
-============= -----------------------------------------------------------------------------------------------------------------------------------------------
+============= ---------------------------------------------------------------------------------------------------------------------------
 I followed EDA with delving deeper to uncover hidden insights through visualisation methods such as boxplots and time-series line graphs. 
 Here, I discovered that: 
 1) The ineterquartile range for sales across regions are all very similar but there are many outliers across regions that skew the data to the right and indicate 
@@ -32,7 +32,7 @@ position in these markets and differentiate themselves to earn customer sales an
 these segments.
 4) Holiday deals and events- track consumer purcahses and offer grouped bundles as "holiday deals", provide winter discounts and sales  and  make common winter gifts 
 and products more affordable to encrouage even greater holidays spending.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 Overall, these recommendations I bleive would make a large impact in Walmart and help smooth out its customers spending habits and improve the longevity across market segments.
 
 Looking to the future:
