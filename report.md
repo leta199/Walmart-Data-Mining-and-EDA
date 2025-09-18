@@ -1,6 +1,6 @@
 Exploratory Data Analysis (EDA)
 
-========================= ---------------------------------------------------------------------------------------------------------------
+========================= ---------------------------------------------------------------------------------------------------------
 
 Through the creation of visualisations like bar charts  and scatter plots I was able to glimpse into the processes that underline Walmart's business.
 I discovered that:
@@ -17,7 +17,7 @@ as Walmart gains a larger and larger percentage of the saturated consumer market
 
 Data Mining 
 
-============= ---------------------------------------------------------------------------------------------------------------------------
+============= -----------------------------------------------------------------------------------------------------------------------
 
 I followed EDA with delving deeper to uncover hidden insights through visualisation methods such as boxplots and time-series line graphs. 
 Here, I discovered that: 
