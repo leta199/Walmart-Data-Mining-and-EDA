@@ -1,5 +1,6 @@
 Exploratory Data Analysis (EDA)
 ========================= ---------------------------------------------------------------------------------------------------------------
+
 Through the creation of visualisations like bar charts  and scatter plots I was able to glimpse into the processes that underline Walmart's business.
 I discovered that:
 1) Most of Walmart's shipements are made via Standard shipping followed by Second class shippping. 
@@ -15,6 +16,7 @@ as Walmart gains a larger and larger percentage of the saturated consumer market
 
 Data Mining 
 ============= ---------------------------------------------------------------------------------------------------------------------------
+
 I followed EDA with delving deeper to uncover hidden insights through visualisation methods such as boxplots and time-series line graphs. 
 Here, I discovered that: 
 1) The ineterquartile range for sales across regions are all very similar but there are many outliers across regions that skew the data to the right and indicate 
