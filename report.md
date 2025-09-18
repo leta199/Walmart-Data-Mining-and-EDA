@@ -37,7 +37,7 @@ these segments.
 4) Holiday deals and events- track consumer purcahses and offer grouped bundles as "holiday deals", provide winter discounts and sales  and  make common winter gifts 
 and products more affordable to encrouage even greater holidays spending.
 -----------------------------------------------------------------------------------------------------------------------------------------
-Overall, these recommendations I bleive would make a large impact in Walmart and help smooth out its customers spending habits and improve the longevity across market segments.
+Overall, these recommendations I believe would make a large impact in Walmart and help smooth out its customers spending habits and improve the longevity across market segments.
 
 Looking to the future:
 If I had access to greater data  I would also have loved to conduct correlation tests to investigate correlated  numerical variables. 
