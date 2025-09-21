@@ -12,7 +12,7 @@ This dataset describes Walmart National's orders shipped out from the years 2021
 
 Languages used: R verion (4.5.1)  
 Packages and modules: tidyverse, lubridate  
-Environemnt: RStudio 
+Environment: RStudio 
 
 ### DATA
  [Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)  
