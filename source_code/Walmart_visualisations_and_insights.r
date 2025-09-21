@@ -10,8 +10,10 @@ library("lubridate")
 raw_data<-read.csv('raw_data/Walmart Dataset.csv', stringsAsFactors = FALSE)
 
 #OVERVIEW OF DATA -------------------------
-str(raw_data)
-summary(raw_data)
+raw_data2<-raw_data %>% 
+  mutate(across(where(is.character),as.factor))
+str(raw_data2)
+summary(raw_data2)
 
 #DATA CLEANING AND PRE-PROCESSING---------------------
 #REMOVE DUPLICATE ROWS
