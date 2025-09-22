@@ -41,7 +41,7 @@ Time series charts- to track trends in profit over time as well as track sales o
 Boxplots- to identify outliers 
 
 ## PROJECT STRUCTURE   
-Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis‐/  
+[Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)‐/  
 ├── [raw_data](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/raw_data)/  
 ├── [source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/source_code/Walmart_visualisations_and_insights.r)/  
 ├── [visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)/  
