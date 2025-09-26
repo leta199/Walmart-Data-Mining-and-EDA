@@ -21,15 +21,15 @@ Obeservations- 8058
 
 
 Data Cleaning    
-**Removing duplicate values** while checking to make sure there are no more duplicate rows with the is.na() and colSums() functions.   
+**Removing duplicate values** while checking to make sure there are no more duplicate rows with the `is.na()` ` and colSums()` functions.   
 **Impute missing values** using a for loop and replacing missing values with medians on numeric columns.  
-**Format**- of the date columns was changed with is.Date() and  excess whitespace was trimmed to ensure consistency with a for loop and trimws function.   
-**Factorisisation** turned all character attributes into factors to apply statsitical summary functions such as summary().
+**Format**- of the date columns was changed with  `is.Date()`  and  excess whitespace was trimmed to ensure consistency with a for loop and  `trimws()` function.   
+**Factorisisation** turned all character attributes into factors to apply statsitical summary functions such as `summary()` .
 
 ## METHODS AND TECHNIQUES  
 **Summary statistics**   
-Using the summary() function
-Delved into the attrubutes using the str() function
+Using the `summary()` function
+Delved into the attrubutes using the `str()` function
 
 **Exploratory Data Analysis**  
 Bar charts- to visualise frequncy of region purchases, and product segment sales   
