@@ -12,7 +12,7 @@ This dataset describes Walmart National's orders shipped out from the years 2021
 
 Languages used: R verion (4.5.1)  
 Packages and modules: tidyverse, lubridate  
-Environemnt: RStudio 
+Environment: RStudio 
 
 ### DATA
  [Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)  
@@ -21,15 +21,15 @@ Obeservations- 8058
 
 
 Data Cleaning    
-**Removing duplicate values** while checking to make sure there are no more duplicate rows with the is.na() and colSums() functions.   
+**Removing duplicate values** while checking to make sure there are no more duplicate rows with the `is.na()` ` and colSums()` functions.   
 **Impute missing values** using a for loop and replacing missing values with medians on numeric columns.  
-**Format**- of the date columns was changed with is.Date() and  excess whitespace was trimmed to ensure consistency with a for loop and trimws function.   
-**Factorisisation** turned all character attributes into factors to apply statsitical summary functions such as summary().
+**Format**- of the date columns was changed with  `is.Date()`  and  excess whitespace was trimmed to ensure consistency with a for loop and  `trimws()` function.   
+**Factorisisation** turned all character attributes into factors to apply statsitical summary functions such as `summary()` .
 
 ## METHODS AND TECHNIQUES  
 **Summary statistics**   
-Using the summary() function
-Delved into the attrubutes using the str() function
+Using the `summary()` function
+Delved into the attrubutes using the `str()` function
 
 **Exploratory Data Analysis**  
 Bar charts- to visualise frequncy of region purchases, and product segment sales   
@@ -41,9 +41,9 @@ Time series charts- to track trends in profit over time as well as track sales o
 Boxplots- to identify outliers 
 
 ## PROJECT STRUCTURE   
-Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis‐/  
+[Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)‐/  
 ├── [raw_data](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/raw_data)/  
-├── [source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/source_cod)/  
+├── [source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/source_code/Walmart_visualisations_and_insights.r)/  
 ├── [visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)/  
 ├── [README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)/  
 └── [report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)
