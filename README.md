@@ -40,14 +40,6 @@ Scatterplot- to visualise the correlation between sales and profit.
 Time series charts- to track trends in profit over time as well as track sales over time and across product segment.   
 Boxplots- to identify outliers 
 
-## PROJECT STRUCTURE   
-[Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)‐/  
-├── [raw_data](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/raw_data)/  
-├── [source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/source_code/Walmart_visualisations_and_insights.r)/  
-├── [visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)/  
-├── [README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)/  
-└── [report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)
-
 ## KEY FINDINGS AND INSIGHTS 
 Major Insights:
 
@@ -56,7 +48,15 @@ Major Insights:
 3)The consumer market experienced the largest growth of all segments in Q4 of 2024.  
 4)South and Central regions deliver the lowest profit of all regions.  
 5)New York City and California are the most frequent purchase regions.  
-6)Edawrd Hooks is the most frequent customer. 
+6)Edawrd Hooks is the most frequent customer.   
+
+## PROJECT STRUCTURE   
+[Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)‐/  
+├── [raw_data](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/raw_data)/  
+├── [source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/source_code/Walmart_visualisations_and_insights.r)/  
+├── [visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)/  
+├── [README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)/  
+└── [report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)/
 
 ## POSSIBLE EXTENSIONS   
 -I would look into a histogram over the sales abd profit to determine the skew of these variables.   
