@@ -14,6 +14,10 @@ Languages used: R verion (4.5.1)
 Packages and modules: tidyverse, lubridate  
 Environment: RStudio 
 
+![R](https://img.shields.io/badge/R-4.5.1-blue)
+![RStudio](https://img.shields.io/badge/Notebook-RStudio-orange)
+![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
+
 ### DATA
  [Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)  
  Vaiables- 21 variables including: shipping modes, sales amount per purchase, profit per purchase, city and region  
