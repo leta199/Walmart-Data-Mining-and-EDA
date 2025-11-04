@@ -14,8 +14,7 @@ Languages used: R verion (4.5.1)
 Packages and modules: tidyverse, lubridate  
 Environment: RStudio 
 
-![R](https://img.shields.io/badge/R-4.5.1-blue)
-![RStudio](https://img.shields.io/badge/Notebook-RStudio-orange)
+[![Built with RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?style=for‐the‐badge&logo=rstudio&logoColor=white)](https://www.rstudio.com/)
 ![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
 
 ### DATA
