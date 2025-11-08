@@ -7,7 +7,6 @@ This dataset describes Walmart National's orders shipped out from the years 2021
 -key perfomance regions 
 -sales and profit correlation and change over time 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## HOW IT'S MADE 
 
 Languages used: R verion (4.5.1)  
@@ -32,22 +31,22 @@ Data Cleaning
 
 ## METHODS AND TECHNIQUES  
 **Summary statistics**   
-Using the `summary()` function
-Delved into the attrubutes using the `str()` function
+Using the `summary()` function.
+Delved into the attrubutes using the `str()` function.
 
 **Exploratory Data Analysis**  
-Bar charts- to visualise frequncy of region purchases, and product segment sales   
+Bar charts- to visualise frequncy of region purchases, and product segment sales.   
 Scatterplot- to visualise the correlation between sales and profit.  
 
 
 **Data Mining**  
 Time series charts- to track trends in profit over time as well as track sales over time and across product segment.   
-Boxplots- to identify outliers 
+Boxplots- to identify outliers. 
 
 ## KEY FINDINGS AND INSIGHTS 
 Major Insights:
 
-1)There is a large range in spending  across individual sales of $17,489  
+1)There is a large range in spending  across individual sales of $17,489.  
 2)Walmart experinces their greatest profit spike during winter holiday season i.e Q4 of 2021- 2024.  
 3)The consumer market experienced the largest growth of all segments in Q4 of 2024.  
 4)South and Central regions deliver the lowest profit of all regions.  
@@ -65,7 +64,7 @@ Major Insights:
 ## POSSIBLE EXTENSIONS   
 -I would look into a histogram over the sales abd profit to determine the skew of these variables.   
 -Additionally, I would like to apply correkation maps to reveak the unexpected correlations.  
--Finally, machine learning algorithms to help predict future prfot ahd sales trends  by region and customer would be powerful. This would help reveal the customers that will churn 
+-Finally, machine learning algorithms to help predict future profit ahd sales trends  by region and customer would be powerful. This would help reveal the customers that will churn 
  for better customr retention recommendations. 
 
 ## AUTHORS 
