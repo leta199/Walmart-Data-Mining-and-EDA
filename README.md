@@ -44,7 +44,8 @@ Time series charts- to track trends in profit over time as well as track sales o
 Boxplots- to identify outliers. 
 
 ## KEY FINDINGS AND INSIGHTS 
-Major Insights:
+
+**Major Insights:**
 
 1)There is a large range in spending  across individual sales of $17,489.  
 2)Walmart experinces their greatest profit spike during winter holiday season i.e Q4 of 2021- 2024.  
@@ -54,12 +55,12 @@ Major Insights:
 6)Edawrd Hooks is the most frequent customer.   
 
 ## PROJECT STRUCTURE   
-[Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)‐/  
-├── [raw_data](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/raw_data)/  
-├── [source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/source_code/Walmart_visualisations_and_insights.r)/  
-├── [visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)/  
-├── [README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)/  
-└── [report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)/
+[Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)  
+├── [raw_data](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/raw_data)  
+├── [source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/source_code/Walmart_visualisations_and_insights.r)  
+├── [visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)  
+├── [README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)  
+└── [report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)
 
 ## POSSIBLE EXTENSIONS   
 -I would look into a histogram over the sales abd profit to determine the skew of these variables.   
