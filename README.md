@@ -19,27 +19,32 @@ Environment: RStudio
 ![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
 
 ### DATA
-[Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)  
-This dataset describes Walmart National's orders shipped out from the years 2021 to 2025
-Vaiables- 21 variables including: 
-Shipping modes - how products were rtansported to customers e.g priority delivery 
-Sales amount per purchase - cost of the item(s) sold
-Profit per purchase - sales price - total costs generated per sale 
-City - Name of city
-Region - Regions of the United States of America e.g West, South etc 
+[Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)   
+This dataset describes Walmart National's orders shipped out from the years 2021 to 2025  
+**Variables** 
+
+There are 21 variables including:   
+
+Shipping modes - how products were rtansported to customers e.g priority delivery   
+Sales amount per purchase - cost of the item(s) sold  
+Profit per purchase - sales price - total costs generated per sale   
+City - Name of city  
+Region - Regions of the United States of America e.g West, South etc   
 Obeservations- 8058 
 
 
-Data Cleaning    
-**Removing duplicate values** while checking to make sure there are no more duplicate rows with the `is.na()` ` and colSums()` functions.   
-**Impute missing values** using a for loop and replacing missing values with medians on numeric columns.  
-**Format**- of the date columns was changed with  `is.Date()`  and  excess whitespace was trimmed to ensure consistency with a for loop and  `trimws()` function.   
-**Factorisisation** turned all character attributes into factors to apply statsitical summary functions such as `summary()` .
-
 ## METHODS AND TECHNIQUES  
+
+**Data Cleaning**    
+**Removing duplicate values** - and checking to make sure there are no more duplicate rows with the `is.na()` ` and colSums()` functions.   
+**Impute missing values** - using a for loop and replacing missing values with medians on numeric columns.  
+**Format** - of the date columns was changed with  `is.Date()`  and  excess whitespace was trimmed to ensure consistency with a for loop and  `trimws()` function.   
+**Factorisisation** - turned all character attributes into factors to apply statsitical summary functions such as `summary()` .
+
 **Summary statistics**   
 Using the `summary()` function.
 Delved into the attrubutes using the `str()` function.
+
 
 **Exploratory Data Analysis**  
 Bar charts- to visualise frequncy of region purchases, and product segment sales.   
