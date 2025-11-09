@@ -72,16 +72,16 @@ Note: this projects uses relative file paths therefore all imports such as of th
 ## PROJECT STRUCTURE   
 |[Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)  
 |├──[raw_data](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/raw_data)       
-│  └──[Wakmart Dataset](https://github.com/leta199/Walmart-Data-Mining-and-EDA/blob/main/raw_data/Walmart%20Dataset.csv)  
+│  └──[Walmart Dataset](https://github.com/leta199/Walmart-Data-Mining-and-EDA/blob/main/raw_data/Walmart%20Dataset.csv)  
 |
-|
+
 |├──[source_code](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/source_code/Walmart_visualisations_and_insights.r)    
 │  └──[R script](https://github.com/leta199/Walmart-Data-Mining-and-EDA/blob/main/source_code/Walmart_visualisations_and_insights.r)    
 |
-|
-├──[visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)  
-├──[README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)  
-└──[report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)
+
+|├──[visualizations](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/tree/main/visualizations)  
+|├──[README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)  
+|└──[report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)
 
 This is for educational purposes only. 
 ## POSSIBLE EXTENSIONS   
