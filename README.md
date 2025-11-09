@@ -62,6 +62,7 @@ Boxplots- to identify outliers.
 ├── [README.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/README.md)  
 └── [report.md](https://github.com/leta199/Walmart-Data-Mining-and-Exploratory-Data-Analysis-/blob/main/report.md)
 
+This is for educational purposes only. 
 ## POSSIBLE EXTENSIONS   
 -I would look into a histogram over the sales abd profit to determine the skew of these variables.   
 -Additionally, I would like to apply correkation maps to reveak the unexpected correlations.  
