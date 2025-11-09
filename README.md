@@ -4,9 +4,9 @@
 This project applies exploratory data analysis (EDA) as well data mining techniques to uncover insights into potential opportunities and trends within Walmart Inc for 7888  of customers and their purchases. 
 
 This project aims to seek insights into:  
--Understanding sales outliers  
--Key perfomance regions   
--Sales and profit correlation and change over time using time -series analysis 
+- Understanding sales outliers  
+- Key perfomance regions   
+- Sales and profit correlation and change over time using time -series analysis 
 
 ## HOW IT'S MADE 
 
