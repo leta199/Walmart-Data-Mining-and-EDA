@@ -1,11 +1,12 @@
-# Walmart-Data-Mining-Exploratory-Data-Analysis
+# Walmart - Data Mining Exploratory Data Analysis
 
 ## ABOUT THIS PROJECT 
 This project applies exploratory data analysis (EDA) as well data mining techniques to uncover insights into potential opportunities and trends within Walmart Inc for 7888  of customers and their purchases. 
-This dataset describes Walmart National's orders shipped out from the years 2021 to 2025. I aim to gleam insights into:
--understanding sales outliers
--key perfomance regions 
--sales and profit correlation and change over time 
+
+This project aims to seek insights into:  
+-Understanding sales outliers  
+-Key perfomance regions   
+-Sales and profit correlation and change over time using time -series analysis 
 
 ## HOW IT'S MADE 
 
@@ -18,8 +19,14 @@ Environment: RStudio
 ![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
 
 ### DATA
- [Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)  
- Vaiables- 21 variables including: shipping modes, sales amount per purchase, profit per purchase, city and region  
+[Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)  
+This dataset describes Walmart National's orders shipped out from the years 2021 to 2025
+Vaiables- 21 variables including: 
+Shipping modes - how products were rtansported to customers e.g priority delivery 
+Sales amount per purchase - cost of the item(s) sold
+Profit per purchase - sales price - total costs generated per sale 
+City - Name of city
+Region - Regions of the United States of America e.g West, South etc 
 Obeservations- 8058 
 
 
