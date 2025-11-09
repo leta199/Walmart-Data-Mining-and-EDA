@@ -53,6 +53,18 @@ Boxplots- to identify outliers.
 4)South and Central regions deliver the lowest profit of all regions.  
 5)New York City and California are the most frequent purchase regions.  
 6)Edawrd Hooks is the most frequent customer.   
+## Setup & Installation 
+
+Clone this repository and navigate into the project directory:
+
+`git clone https://github.com/YourUsername/Walmart-Data-Mining-and-EDA.git`  
+`cd Linear-Regression`
+
+**Usage**
+Since there are 
+
+Note: this projects uses relative file paths therefore all imports such as of the `Walmart Dataset.csv` file should be okay as long as file structure remains the same. 
+
 
 ## PROJECT STRUCTURE   
 [Walmart‑Data‑Mining‑and‑Exploratory‑Data‑Analysis](https://github.com/leta199/Walmart-Data-Mining-and-EDA)  
