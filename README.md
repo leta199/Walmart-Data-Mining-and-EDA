@@ -60,8 +60,11 @@ Clone this repository and navigate into the project directory:
 `git clone https://github.com/YourUsername/Walmart-Data-Mining-and-EDA.git`  
 `cd Linear-Regression`
 
+Check to make sure you are in the correct working directory (or set it if necessary):
+`getwd()` or `setwd("path/to/Walmart-Data-Mining-and-EDA")`
+
 **Usage**
-Since there are 
+Once all the files are stored locally, running the files 
 
 Note: this projects uses relative file paths therefore all imports such as of the `Walmart Dataset.csv` file should be okay as long as file structure remains the same. 
 
