@@ -12,7 +12,7 @@ This project aims to seek insights into:
 ## HOW IT'S MADE 
 
 Languages used: R verion (4.5.1)  
-Packages and modules: tidyverse, lubridate  
+Packages and modules: `tidyverse`, `lubridate`  
 Environment: RStudio 
 
 [![Language: R](https://img.shields.io/badge/Language-R-276DC3.svg?style=flat-square)](https://www.r-project.org/)
@@ -26,7 +26,7 @@ This dataset describes Walmart National's orders shipped out from the years 2021
 
 There are 21 variables including:   
 
-Shipping modes - how products were rtansported to customers e.g priority delivery   
+Shipping modes - how products were transported to customers e.g priority delivery   
 Sales amount per purchase - cost of the item(s) sold  
 Profit per purchase - sales price - total costs generated per sale   
 City - Name of city  
