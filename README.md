@@ -102,9 +102,8 @@ This is for educational purposes only.
 
 ## POSSIBLE EXTENSIONS   
 -I would look into a histogram over the sales abd profit to determine the skew of these variables.   
--Additionally, I would like to apply correkation maps to reveak the unexpected correlations.  
--Finally, machine learning algorithms to help predict future profit ahd sales trends  by region and customer would be powerful. This would help reveal the customers that will churn 
- for better customr retention recommendations. 
+-Additionally, I would like to apply correkation maps to reveal the unexpected correlations.  
+-Finally, machine learning algorithms to help predict future profit ahd sales trends  by region and customer would be powerful. This would help reveal the customers that will churn for better customer retention recommendations. 
 
 ## AUTHORS 
 
