@@ -22,8 +22,8 @@ Environment: RStudio
 ### DATA
 [Walmart Dataset](https://drive.google.com/file/d/1gyeK2_uO6hLPQTBBAk4YdNHkBhlXmsz3/view)   
 This dataset describes Walmart National's orders shipped out from the years 2021 to 2025  
-**Variables** 
 
+**Variables** 
 There are 21 variables including:   
 
 Shipping modes - how products were transported to customers e.g priority delivery   
