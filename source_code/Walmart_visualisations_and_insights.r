@@ -17,7 +17,7 @@ summary(raw_data2)
 
 #DATA CLEANING AND PRE-PROCESSING---------------------
 #REMOVE DUPLICATE ROWS
-data <- raw_data[!duplicated(raw_data),] #returns logical true for unique rows, false otherwise an keeps unqie observations
+data <- raw_data[!duplicated(raw_data),] #returns  true for unique rows, false otherwise an keeps unique observations
 
 # CHECK FOR MISSING VALUES ---------------------------------------------
 colSums(is.na(data))
