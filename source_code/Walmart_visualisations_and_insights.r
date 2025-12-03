@@ -1,5 +1,5 @@
-#WALMART ANALYSIS--------------------------------------------------------------------------------------------------------------------------------
-#INSTALL PACKAGES--------------------------------------------------------------------------------------------------------------------------------
+#WALMART ANALYSIS--------------------------------------------------------------------------------------------------------------
+#INSTALL PACKAGES--------------------------------------------------------------------------------------------------------------
 install.packages("tidyverse") #for cleaning, preparation and graphing
 install.packages("lubridate") #dealing with dates in time-series analysis
 library("tidyverse")
@@ -9,20 +9,20 @@ library("lubridate")
 #IMPORT RAW DATA AS DATAFRAME
 raw_data<-read.csv('raw_data/Walmart Dataset.csv', stringsAsFactors = FALSE)
 
-#OVERVIEW OF DATA -------------------------------------------------------------------------------------------------------------------------------
+#OVERVIEW OF DATA --------------------------------------------------------------------------------------------------------------
 raw_data2<-raw_data %>% 
   mutate(across(where(is.character),as.factor))
 str(raw_data2)
 summary(raw_data2)
 
-#DATA CLEANING AND PRE-PROCESSING----------------------------------------------------------------------------------------------------------------
+#DATA CLEANING AND PRE-PROCESSING-------------------------------------------------------------------------------------------------
 #REMOVE DUPLICATE ROWS
 data <- raw_data[!duplicated(raw_data),] #returns  true for unique rows, false otherwise an keeps unique observations
 
-# CHECK FOR MISSING VALUES ----------------------------------------------------------------------------------------------------------------------
+# CHECK FOR MISSING VALUES -------------------------------------------------------------------------------------------------------
 colSums(is.na(data))
 
-#IMPUTE MISSING VALUES---------------------------------------------------------------------------------------------------------------------------
+#IMPUTE MISSING VALUES------------------------------------------------------------------------------------------------------------
 for (col in names(data)) {
   if (is.numeric(data[[col]])) {
     data[[col]][is.na(data[[col]])] <- median(data[[col]], na.rm = TRUE)
