@@ -30,7 +30,7 @@ for (col in names(data)) {
 } #replaces any NAs in column with median of column 
 
 #CONVERT DATE COLUMNS FROM STRINGS TO DATE TYPES----------------------------------------------------------------------------------
-data$Order.Date<-as.Date(data$Order.Date, format="%m/%d/%y") #small "y" since date is 2 numbers long
+data$Order.Date<-as.Date(data$Order.Date, format="%m/%d/%y") #small "y" since year is 2 numbers long
 data$Ship.Date<-as.Date(data$Ship.Date, format="%m/%d/%y")
 str(data) #checking if conversion worked 
 
