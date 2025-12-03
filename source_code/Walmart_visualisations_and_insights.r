@@ -1,5 +1,5 @@
 #WALMART ANALYSIS--------------------------------------------------------------------------------------------------------------------------------
-#INSTALL PACKAGES ----------------------
+#INSTALL PACKAGES--------------------------------------------------------------------------------------------------------------------------------
 install.packages("tidyverse") #for cleaning, preparation and graphing
 install.packages("lubridate") #dealing with dates in time-series analysis
 library("tidyverse")
