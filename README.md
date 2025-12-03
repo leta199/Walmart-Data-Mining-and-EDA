@@ -100,7 +100,7 @@ Note: this projects uses relative file paths therefore all imports such as of th
 
 This is for educational purposes only. 
 
-## POSSIBLE EXTENSIONS   
+## WHAT DOES THE FUTURE HOLD    
 1. I would look into a histogram over the sales abd profit to determine the skew of these variables.   
 2. Additionally, I would like to apply correkation maps to reveal the unexpected correlations.  
 3. Finally, machine learning algorithms to help predict future profit ahd sales trends  by region and customer would be powerful. This would help reveal the customers that will      churn for better customer retention recommendations. 
